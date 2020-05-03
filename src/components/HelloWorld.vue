@@ -17,7 +17,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang='sass' scoped>
-$size: 100px
+$size: 10rem
 .hello
   background-color: #000
   width: $size
